@@ -1,0 +1,261 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The preservation of the King's Majestie's royal person, crown and dignity the preparing of the fishing trade, maintenance of the poor, preserving of peace and safety of the kingdomes. By W. O. Gent.</title>
+            <author>Okeham, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90125</idno>
+            <idno type="STC">Wing O190A</idno>
+            <idno type="STC">ESTC R230749</idno>
+            <idno type="EEBO-CITATION">99896467</idno>
+            <idno type="PROQUEST">99896467</idno>
+            <idno type="VID">154319</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90125)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154319)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2410:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The preservation of the King's Majestie's royal person, crown and dignity the preparing of the fishing trade, maintenance of the poor, preserving of peace and safety of the kingdomes. By W. O. Gent.</title>
+                  <author>Okeham, William.</author>
+               </titleStmt>
+               <extent>[4], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by R.D. and are to be sold by Francis Eglesfield at the Marigold in S. Paul's Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: William Okeham.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fish trade --  England --  Early works to 1800.</term>
+               <term>Poor --  Services for --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154319:1"/>
+            <pb facs="tcp:154319:1"/>
+            <p>THE PRESERVATION Of the KING'S MAJESTIE'S Royal Perſon, Crown and Dignity, The Preparing of the Fiſhing Trade, Maintenance of the Poor, preſerving of Peace and Safety of the Kingdomes.</p>
+            <p>By <hi>W. O.</hi> Gent.</p>
+            <figure>
+               <head>AD ARDUA PER ASPERAT ENDO</head>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed by <hi>R. D.</hi> and are to be ſold by <hi>Francis Eglesfield</hi> at the <hi>Marigold</hi> in S. <hi>Paul</hi>'s Church-yard, 1664.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:154319:2"/>
+            <pb facs="tcp:154319:2"/>
+            <head>To the KING'S moſt Excellent MAJESTIE. That your <hi>Majeſtie</hi> would be pleaſed to conſi<g ref="char:EOLhyphen"/>der the Book hereunto annexed, which your Petitio<g ref="char:EOLhyphen"/>ner humbly preſented to your <hi>Majeſtie,</hi> and alſo of this Petition which your Petitioner humbly preſents to your <hi>Majeſties</hi> most gracious conſideration.</head>
+            <opener>Humbly ſhewing,</opener>
+            <p>THat the Charge of your <hi>Majeſties</hi> Subjects in the main<g ref="char:EOLhyphen"/>tenance of the Poor, by Aſſeſſements, in the ſeveral Pa<g ref="char:EOLhyphen"/>riſhes of your <hi>Majeſties</hi> Kingdome of <hi>England</hi> and Dominion of <hi>Wales,</hi> is conceived to amount unto above Six Hundred Thouſand Pounds <hi>per an.</hi> beſides all Free gifts, Almes houſes, and other Benevolencies given towards their maintainance; which ſum being levied at one entire Seſſement, together with their other Free gifts &amp; Revenues, and many other gifts which would be given, if your <hi>Majeſties</hi> Subjects were ſure the Poor ſhould be ſet on work and provided for with it, and the Trade of Fiſhing already graciouſly propounded by your <hi>Majeſtie,</hi> and other things in your Petitioners Book were
+<pb facs="tcp:154319:3"/>
+enacted and put in execution, would undoubtedly ſet all the Poor on work, and in a ſmall time wholly eaſe your <hi>Maje<g ref="char:EOLhyphen"/>ſties</hi> Subjects of their Taxes, in maintaining them in idleneſſe, and the profit of their work will amount to more then their Taxes, by which means the Fiſhing Trade will be more ad<g ref="char:EOLhyphen"/>vanced, your <hi>Majeſties</hi> Sea-men and ſhipping have more neceſſaries and employment, your <hi>Majeſties</hi> Seas more guarded and ſtrengthned, your Merchants would have more Trade and encouragement, your <hi>Majeſties</hi> Cuſtomes and Revenues much more encreaſed, all your Subjects more benefited, beſides a ſufficient maintenance for the Poor in all Counties.</p>
+            <p>All which might be fully accompliſhed if this work of the Poor were effectually put in execution.</p>
+            <p>That your <hi>Majeſtie</hi> would be graciouſly pleaſed to con<g ref="char:EOLhyphen"/>ſider the neglect and oppreſſion of the Poor, and how ma<g ref="char:EOLhyphen"/>ny of other Nations lives here and eats the bread out of your Poor Subjects mouthes, and how ſtrict they are o<g ref="char:EOLhyphen"/>ver all Strangers under their Government, not ſuffering them to work as Maſters but as Slaves who under them live.</p>
+            <p>That your Majeſtie would be pleaſed to pardon your poor Petitioner in preſuming to preſent theſe rude Lines unto your Majeſtie.</p>
+            <closer>
+               <signed>And your Petitioner (as in duty bound) ſhall ever pray for your Majeſties long life, happy and proſperous Reign in this world, and life everlaſting in the world to come.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb n="1" facs="tcp:154319:3"/>
+            <head>To the KING'S moſt Excellent MAJESTIE; Humbly deſiring Your moſt Gracious <hi>Majesty</hi> to take theſe <hi>Propoſitions</hi> into your Princely conſideration.</head>
+            <argument>
+               <p>The Preſervation of Your <hi>Majeſtie</hi>'s Royal Perſon Crown and Dignity; The Preparing of the Fiſhing Trade Maintenance of the Poor; Preſerving of Peace and Safety o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Kingdomes.</p>
+            </argument>
+            <p>
+               <seg rend="decorInit">T</seg>Hat Your <hi>Majeſtie</hi> would be pleaſed, that an Act ma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be prepared, to Incorporate all Hundreds in <hi>Englan<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and <hi>Wales</hi> as a body Corporate, onely for the pre<g ref="char:EOLunhyphen"/>paring of Work-houſes in every Hundred for the ſet<g ref="char:EOLunhyphen"/>ting of the Poor on work; and Work-houſes in every Pariſh for all Poor people and Idle perſons to be ſet on work in eve<g ref="char:EOLunhyphen"/>ry Pariſh and ſuch Work houſes in every Pariſh and Hundred to be erected and built in ſuch convenient places on every Lords waſt<g ref="char:punc">▪</g> or other places, as two Juſtices of the Peace, one to be of the <hi>Quorum,</hi> together with the aſſiſtance of the Ma<g ref="char:EOLhyphen"/>ſters and Wardens of every Work-houſe in every Hundred, and of the High Conſtables, Conſtables, Church-wardens, and
+<pb n="2" facs="tcp:154319:4"/>
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eadboroughs, in every Pariſh, in every Hundred, or the ma<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>r part of them ſhall think fit and convenient.</p>
+            <p>That all Pariſh ſtocks, and other gifts, and levies, and other <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>fts for the maintenance of the Poor, may be laid out and im<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>oied in buying of Hemp, Flax, Timber to be hewed for boards, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Veſſells and old Ropes for making of Occom for Ships, Wheeles, and other neceſſaries for Spinning of Yarn, for Nets, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Cloath for Sailes, Cords, Ropes fit for Cables, and other <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mall Ropes, and other Tackle for ſhips, and boards and Hoops <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or Veſſels, and other Commodities for Fiſhing, and for Mer<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hants; and that every week or moneth (as occaſion ſhall re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uire) the ſame to be conveyed to the grand Work houſes in <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>very hundred, there to be made into ſmall Ropes fit for Ca<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>les, and other Ropes, Nets, Sails, Boards for Veſſels, and o<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her Tackle for ſhips, Buſſes for Fiſhing; with power for the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>odies Corporate in every Hundred to ſee the Work-houſe <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Poor in every Pariſh to be ſet on work, and provided for with neceſſaries.</p>
+            <p>That the Timber fitted for Buſſes, Small Ropes, Yarn for Nets, Cloth for Sails, and other Cloth for your <hi>Majesties</hi> ſer<g ref="char:EOLhyphen"/>vice, for Soldiers, Poor people, and other neceſſaries, except <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Cloth for the Poor, be ſent to <hi>London,</hi> and other Seaport Towns into the Work-houſes prepared for your <hi>Majeſties</hi> ſer<g ref="char:EOLhyphen"/>vice, for the making and fitting of Buſſes, Ropes, Sails, Cables, Nets, and other Tackle for Ships, and there to be made fit to be ſold and delivered for the uſe of your <hi>Majeſtie,</hi> and the Merchants at ſuch rates and prices, as ſhall be thought fitting, (to buy them) and the money or Commodities to be returned to every grand Work-houſe from whence they come; And that true and ſpeedy return may be made to every Work-houſe in every Hundred, from whence they ſhall be ſent, and to be paid to the Poor of every Pariſh and Work-houſe.</p>
+            <p>That in every grand Work-houſe in every Hundred there be provided neceſſary Lodgings for all ſuch perſons as ſhall be
+<pb n="3" facs="tcp:154319:4"/>
+found idle &amp; a begging; and for ſuch perſons as ſhall be there ſent: and that no ſingle perſon be ſuffered to live out of ſervice without ability to maintain themſelves, or their parents or friends maintain them.</p>
+            <p>That if any perſon ſo ſent to ſuch Work-houſes depart without Licence, ſuch perſons to be apprehended, and there to remain and work for one whole year without Bail or Main-prize, or to be immediately tranſported to your <hi>Majeſties</hi> Gar<g ref="char:EOLhyphen"/>riſons and Plantations beyond the Seas: and that if any perſon whatſoever knowingly ſhall harbour ſuch perſons, or give re<g ref="char:EOLhyphen"/>lief to ſuch perſons, ſuch perſons ſo harbouring or relieving, to pay 40<abbr>
+                  <hi>s</hi>
+               </abbr> for every night ſo harbouring, or giving relief to ſuch perſons, to the Treaſurer of every Work-houſe within the Hundred, where ſuch offence is committed for the uſe of the Poor.</p>
+            <p>That there be all manner of Trades-men provided in the grand Work-houſe in every Hundred and Corporation, as ſhall be thought meet, as Hewers of Timber for Buſſes, Rope-makers, Smiths, Knitters of Nets, Weavers of Cloth for Sailes, and other cloth and Commodities, and other Trades, as well for Ships and Buſſes for Fiſhing, as for other things.</p>
+            <p>That no Commodities or Merchandiſes whatſoever con<g ref="char:EOLhyphen"/>cerning any handecraft Trade which can be made in <hi>England;</hi> (except Silk and Linnen Cloth) be brought over under penal<g ref="char:EOLhyphen"/>ty of Fellony, and forfeiture of Ship and Goods, and all prohi<g ref="char:EOLhyphen"/>bited goods, which are to be tranſported, be alſo under the ſame penalty; and that no Forraigner or Alien be ſuffered to work as Maſter upon any pretence in any Trade whatſoever out of the grand Work-houſes in every Hundred, under penal<g ref="char:EOLhyphen"/>tie of one whole years working in every grand Work-houſe in every Hundred, or Corporation where they ſo work.</p>
+            <p>That all young Children, whoſe parents and friends are not able to maintain them without relief, be brought up in e<g ref="char:EOLhyphen"/>very
+<pb n="4" facs="tcp:154319:5"/>
+Pariſh in the Work-houſe, and taught to read <hi>Engliſh;</hi> and after they attain the age of 8, or 9. years be bound to Trades in every grand Work-houſe in every hundred, where they ſhall be born, and there to ſerve in the ſeveral grand Work-houſes, as they are Capable for: and when they attain to age, to be capable to bear Armes, may be diſciplined there<g ref="char:EOLhyphen"/>in; and after they attain to be capable (may be ſent) ſome to be brought up &amp; ſent into Buſſes for Fiſhing, others into your <hi>Majeſties</hi> Ships, others into Merchant men, as occaſion ſhall require; and others to continue in their ſeveral Trades in the ſeveral grand Work-houſes in every hundred, as ſhall be thought meet; ſo that there be conſtantly able work-men in every grand Work-houſe, &amp; them to have ſuch maintenance as ſhall be thought meet, untill they are capable to work and live of themſelves.</p>
+            <p>That care may be taken to ſet reaſonable prices upon all manner of Works for the Hewing of Timber for Buſſes, ma<g ref="char:EOLhyphen"/>king of Nets, Cords, Ropes, Cables, Sails, Guns, Muskets, and other Armes, Boards for Veſſels, and Veſſels fit for Fiſhing, and other Commodities ſo made both for Fiſhing, and the uſe of your <hi>Majesties</hi> ſervice, and of the Merchants: and that every Work-houſe in every Pariſh, and Work-houſe in every Hundred, be every week duly paid, for their work for the bet<g ref="char:EOLhyphen"/>ter maintenance of the Poor, and their encouragement in working, out of the grand Stock of the Pariſhes and hun<g ref="char:EOLhyphen"/>dreds, and out of ſuch their work and other aſſeſſements in the ſaid Pariſhes.</p>
+            <p>That all monies already raiſed, or hereafter ſhall be raiſed for the ſetting forth and preparing for the trade of Fiſhing, be paid into the ſeveral Treaſurers to be appointed over every Work-houſe and Store-houſe in every Port Town, there to be imployed for the making of Buſſes for Fiſhing, Cables, Ropes, Nets, Veſſels, Boards hewed for battels and other Veſſels and Commodities, and Tackle for Ships, belonging to your <hi>Ma<g ref="char:EOLhyphen"/>jeſtie,</hi> and the Trade of Fiſhing, and Merchants, or others which ſhall buy them.</p>
+            <p>
+               <pb n="5" facs="tcp:154319:5"/>That the Conſtables, Headborough, and Over-ſeers of eve<g ref="char:EOLhyphen"/>ry Pariſh and Tithings, take care to ſend twice every week, or oftner to every Nobleman, Gentleman, and Farmers houſe for their broaken meat, and other their benevolence, towards the better maintenance of the poor people ſo ſet on work, and which are ſick, and not able to do any manner of work.</p>
+            <p>That if there be any poor people abuſe each other in words or otherwiſe, ſo that it cauſe a diſturbance, that ſuch perſons be apprehended, and the Fact tryed by witneſſes before two Juſtices of the Peace, and the Maſters and Wardens appointed over every Work houſe in every Hundred where every ſuch offence is committed, and that what puniſhment they decree or order the ſame to be put in execution.</p>
+            <p>That an Act be made and paſſed, that after a time no <hi>Engliſh</hi> Merchant, or others, may bring over or buy any Cables, Nets, Sails, Cords, or other Tackle for Ships, or other Commodities made in the ſeveral Work-houſes, except for their neceſſaries in their Voiages, but out of your <hi>Majeſties</hi> warehouſes, and that your <hi>Majeſties</hi> Officers afford them to the Merchants and other Trades-men at ſome convenient cheaper rate then they can bring them over from beyond the Seas into <hi>England.</hi>
+            </p>
+            <p>That if there be any want of Hemp and Flax, and not ſuffi<g ref="char:EOLhyphen"/>cient brought over for the ſupply of the work of the Poor, and other Trades-men, that then every Farmer which holdeth a<g ref="char:EOLhyphen"/>ny Farm of the Rent of 20 <hi>l. per. an.</hi> and ſo for every bigger or leſſer Farm, according to the rate, be enjoined to ſow two a<g ref="char:EOLhyphen"/>cres of Hemp and Flax every year; to the end there be no want of Hemp and Flax: this to be performed upon ſome penaltie, or otherwiſe, according to the old Statutes and Laws to ſow Hemp and Flax.</p>
+            <p>That all Seaport Towns, and other Towns and Pariſhes within forty miles diſtant from them, be compelled to ſet forth Buſſes and other Veſſels (according to the Abilities of them) for Fiſhing; and that for the better accompliſhing of it, that
+<pb n="6" facs="tcp:154319:6"/>
+your <hi>Majeſtie</hi> be pleaſed to give order that the Survey of your <hi>Majeſties</hi> Seas taken in the Reign of King <hi>Richard</hi> the Second, and other Surveys of your <hi>Majeſties</hi> Seas, be look'd into.</p>
+            <p>That no idle perſon, or Almes people or beggers be ſuffered to be idle, or goe out of his, her, or their Pariſh or abode, without a ſufficient Certificate from the Miniſter, Conſtable, or Churchwardens, for their good behaviour; nor be ſuffered to begge in the ſtreets, or Pariſh, or at any mans houſe; and that no Pedler, Tinker, or other perſons, be ſuffered to wan<g ref="char:EOLhyphen"/>der or travell out of their Pariſh, except ſuch as be ſent unto, without licence from two Juſtices of the peace, and the Ma<g ref="char:EOLhyphen"/>ſters and Wardens of every grand Work-houſe in every Hun<g ref="char:EOLhyphen"/>dred, upon pain of 3. months working in every grand Work-houſe in the Hundred where they ſhall be ſo taken; and that every grand Work-houſe have their Se<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l belonging to their Corporation, that ſo it may be known to be the Seal of ſuch a grand Work-houſe.</p>
+            <p>That care be taken that there be ſufficient Fiſh brought into <hi>England</hi> for the ſupply of your <hi>Majeſties</hi> Subjects before any be tranſported beyond the Seas; and that your <hi>Majeſties</hi> Store-houſe for your <hi>Majeſties</hi> Navy be alwaies furniſhed for your <hi>Majesties</hi> ſervice, and that <hi>Lent</hi> and all <hi>Fiſh-dayes,</hi> and <hi>Faſting-dayes</hi> be duely kept, and that if any Cook or Victualling houſe preſume to dreſſe any Fleſh on either of the ſaid dayes except for ſick perſons by the Doctors and Apothecaries approba<g ref="char:EOLhyphen"/>tions, or for ſick perſons which cannot ſubſiſt without, be for every ſuch offence ſent to the grand Work-houſe, there to work one whole week for ſuch their offence, by which means all Fiſhermen will be encouraged to Fiſh; your <hi>Maje<g ref="char:EOLhyphen"/>ſties</hi> Seas will be alwaies ſtrengthened; and your Kingdomes kept in ſafety; and Corn will be ſowed more then it is.</p>
+            <p>That all poor Travellers and Souldiers that are to travel into their own Countries, may be relieved at the grand Work-houſes in every Hundred, or Work-houſes in every Pariſh, to
+<pb n="7" facs="tcp:154319:6"/>
+the end that their neceſſities may be relieved, and the avoid<g ref="char:EOLunhyphen"/>ance of pilphering: and that if any offer to begge, or goe ou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of their way, then to be ſet on work in the grand Work-houſe in every Hundred for ſome convenient time, and then to have correction, and be ſent from Pariſh to Pariſh to the place o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their birth or laſt inhabitant, and there be ſet on work; and if any perſon refuſe to yield obedience, then ſuch perſons to be tranſported.</p>
+            <p>That Alehouſe-keepers, and all other houſe keepers in eve<g ref="char:EOLhyphen"/>ry Pariſh or Corporation that ſhall have any Lodger, or other perſons that ſhall lodge in his or her houſe, be enjoined to give from time to time the names and places from whence they came, of all his and her Lodgers, and other perſons that ſhall lie<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or inhabite in their houſes, to the Conſtable or other Officers in every Pariſh, and ſuch perſons be enjoined to give an ac<g ref="char:EOLhyphen"/>count how, and which wayes he, ſhe, or they live; or in de<g ref="char:EOLhyphen"/>fault thereof ſuch houſe keepers to forfeit the ſumme of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> to the poor, for every ſuch default; &amp; if ſuch Lodger refuſe to give an account of his life &amp; Con<g ref="char:EOLhyphen"/>verſation, then ſuch Lodger to be ſent to the grand Work-houſe, there to remain at work till he, ſhe, or they find ſuffi<g ref="char:EOLhyphen"/>cient ſureties for his or her behaviour; and that every Conſta<g ref="char:EOLhyphen"/>ble, Churchwarden Tithing-men, and other Officers, be en<g ref="char:EOLhyphen"/>joined under ſome penalty to ſee all things performed within his Pariſh, and the High Conſtable in every Hundred under a<g ref="char:EOLhyphen"/>nother penalty, to ſee the petty Conſtables and other Officers perform their Duties.</p>
+            <p>That it would pleaſe your <hi>Majeſtie,</hi> according to the ancient Laws of this Kingdome to put down all Gaming Ordinaries, and that all bonds and other ſecurities whatſoever for any mo<g ref="char:EOLhyphen"/>ney loſt at play be void; &amp; that if any man under &amp; which have not the yearly value of 100 <hi>
+                  <abbr>l</abbr> per ann.</hi> play for above 5 <abbr>
+                  <hi>s</hi>
+               </abbr> at one time, that ſuch perſons forfeit to the uſe of the poor treble the value of ſuch ſumme as he ſo playes for.</p>
+            <p>
+               <pb n="8" facs="tcp:154319:7"/>That there be reaſonable Salaries for the ſaid Treaſurers and other officers of truſt for their better care in their ſeverall of<g ref="char:EOLhyphen"/>fices.</p>
+            <p>That care be taken alſo that a true and exact accompt be quarterly or oftner given to the Lord Treaſurer of England, or ſuch other Commiſſioner as your Majeſty ſhall from time to time appoint, to be preſented to your Majeſty of all the work and ſtock of every Pariſh, and every workhouſe in every Cor<g ref="char:EOLhyphen"/>poration and Hundred, and of every ſtock in every of your Majeſties ſtorehouſes.</p>
+            <p>That care alſo be taken that the Iuſtices of Peace in every Diviſion in any County, or ſuch other Commiſſioners as Your Majeſty ſhall appoint, doe take care to ſee the poor people ſo ſet to work be provided for, and to ſee the Maſters and Wardens perform their duty, to the end the poor be not overpreſt and abuſed: So that there be not any Deceit or Fal<g ref="char:EOLhyphen"/>cify in any of the Maſters and Wardens of euery Hundred and Corporation, and of every officer within every Pariſh; and that a true accompt be given by the ſeverall perſons afore named upon a good penalty by Fine and impriſonment as ſhall be thought meet.</p>
+            <p>That it pleaſe your Majeſty to conſider the Cry of the poor in the ſtreets, which comes through Idleneſs and for want of work, and neglect and want of Maintenance for them and their poor children; by all which means aforeſaid being prepared, there is neither blinde nor lame, nor aged nor idle perſon, but may be put on work and imployed, and your Ma<g ref="char:EOLhyphen"/>jeſties ſubjects provided for, and your Majeſties Navies and Armies furniſhed both with proviſions for themſelves and with faithfull ſubjects, ſouldiers and ſeamen.</p>
+            <p>That it will be more eaſe for your Majeſties ſubjects to maintain the poor at work then to maintain them in idleneſſe, and the avoidance of the poor attending at Aſſizes and Seſ<g ref="char:EOLhyphen"/>ſions, for there are more poor people undone thereby,
+<pb n="9" facs="tcp:154319:7"/>
+then peace preſerved. And by work it is more for the glory of God, the honor and ſafety of your Majeſties royall perſon and Kingdomes, for it is obſerved that through gaming and idle<g ref="char:EOLhyphen"/>neſſe comes nothing but ſwearing, imbeſling eſtates, blaſphe<g ref="char:EOLhyphen"/>ming, deſtruction of young Gentlemen, Apprentices and o<g ref="char:EOLhyphen"/>thers, and all manner of Rebellion, Robbery, Murther,, Lu<g ref="char:EOLhyphen"/>xuriouſneſſe, poverty both to people and kingdomes, and all manner of vices and ſins let in thereby.</p>
+            <p>To prevent all pilphering, ſheep ſtealing, robbing of Hen<g ref="char:EOLhyphen"/>rooſts, and breaking up of houſes, and ſuch like fellows.</p>
+            <p>That an Act be made that in every Pariſh there be kept one or more Bloud-hounds that will draw dry-foot at the charge of the Pariſh.</p>
+            <p>It is alſo obſerved, in reading of ſome ancient Authours, as <hi>The Diall of Princes,</hi> and other Books, where there were grave Sages that cauſed Laws to avoid Idleneſſe, and that cauſed all people to be ſet on work, that the Emperours and other States and Kingdomes were able to defend themſelves, and the Kings and People bleſt: but when Idleneſſe crept in, and work laid aſide, all mannet of ſins ſprang amongſt them, and Rebellion followed, and what comes of Rebellion and Idleneſſe I hum<g ref="char:EOLhyphen"/>bly ſubmit</p>
+            <closer>
+               <signed>Your <hi>Majeſties</hi> moſt Faithful and Obedient poor Subject, <hi>WILLIAM OKEHAM</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:154319:8"/>
+            <pb facs="tcp:154319:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
